@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+    <head>
+       
+       <title>Teste</title>
+        <h1>Analise e Desenvolvimento de Sistemas | Unisanta</h1>
+        
+        <h3>Bem Vindo de voltas ao curso de ADS da Unisanta! :D</h3>
+        
+    </head>
+    <body>
+    <link rel="stylesheet" href="base_text.css">
+     
+     <img src="imgs/ads-unisanta.png" alt="Professor Antonio Carlos Guerra, Cordenador do curso de analise e Desenvolvimento de Sistemas, ministrando aula de gerenciamento de projetos em laboratorio">
+
+     <p>O curso superior de tecnologia em Análise e Desenvolvimento de Sistemas da Unisanta forma profissionais capazes de analisar, projetar, desenvolver, testar, implantar e manter sistemas computacionais de empresas, sistemas web e aplicativos para dispositivos móveis.</p> 
+
+     <p>De acordo com pesquisa feita pelo Cadastro Geral de Empregados e Desempregados (CAGED), <b><i>os analistas de sistemas estão entre os profissionais mais requisitados pelas empresas do Brasil e do exterior.</i></b></p> 
+
+     <p>Isso porque no mundo de hoje, os meios de produção e as relações sociais estão cada dia mais ligados à tecnologia, o que faz com que haja uma alta demanda por especialistas na área de Tecnologia da Informação (TI). O segmento de Análise e Desenvolvimento de Sistemas está entre as áreas que mais realizaram contratações formais nos últimos anos.
+
+     <p>Os acadêmicos mantêm contato com a realidade do mercado de trabalho por meio de palestras, seminários e minicursos com empresas de tecnologia de ponta.</p>
+
+     <h1>Campo de atuação</h1>
+
+     <p>Além de desenvolver as habilidades já anteriormente citadas, este profissional é também habilitado a avaliar, selecionar, especificar e utilizar metodologias, tecnologias e ferramentas da engenharia de software, linguagens de programação e bancos de dados, e a coordenar equipes de produção de softwares.</p>
+
+     <h1>Vestibular</h1>
+
+     <p>Deseja entrar no canal de Nucleo de Gestão e Desenvolvivemento de Carreira Unisanta? <a href= "https://sites.unisanta.br/ndc"> Acesse esse link.</a></p>
+
+     <p>Deseja ficar sabendo da abertura de inscrições para ingresso no curso? <a href= "atividades-complementares.html"> Acesse este link.</a></p>
+     
+     <p>Deseja entrar no canal de talentos Unisanta? <a href= "https://canaltalentos.unisanta.br/"> Acesse esse link.</a></p>
+
+     <address>
+     <a href="https://unisanta.br"> Santa Cecília</a><br>
+     Rua Oswaldo Cruz, 277 - Boqueirão - Santos/SP<br>
+     CEP: 11045-907 | Telefones: (13) 3202-7100 / (13) 2104-7150<br>
+     Central do Vestibular: (13) 3202-7101<br>
+     </address>
+
+    </body>
+</html>
