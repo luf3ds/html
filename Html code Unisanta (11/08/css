@@ -1,0 +1,51 @@
+body
+{
+    background-color: rgb(16, 57, 77);
+    text-align: left;
+}
+img
+{
+    border-radius: 25px;
+    margin: 50px;
+    float: right;
+}
+
+h1
+{
+    text-shadow: 2px 2px 2px white;
+    color: aliceblue;
+    font-size: xx-large;
+    font-family: cursive;
+}
+
+p
+{
+    color: aliceblue;
+    text-align: left;
+}
+
+a
+{
+    color:aliceblue;
+    text-align: left;
+}
+
+address
+{
+    color: aliceblue;
+    text-align: center;
+}
+
+h3
+{
+    color:aliceblue;
+    text-align: left;
+    animation: rgbColor 3s infinite;
+    font-size: xx-large;
+}
+                                               
+@keyframes rgbColor 
+{
+ 
+    1% {color: grey;}
+}
