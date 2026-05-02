@@ -1,43 +1,38 @@
-# html
-inicial
-<!doctype html>
-<html lang="pt-br">
-<tittle>aprendendo css</title>
-<head>
-<style>
-    body
-    {
-        background-color: black
-    }
-    h1
-    {
-        color: white;
-        text-align: center;
-        font-family: Arial, sans-serif;
-    }
-    h2
-{
-    color: white;
-    text-align: center;
-    font-family: Arial, sans-serif;
-    animation: rgbColor 5s infinite alternate;
-}
+# 🎓 Página Informativa - ADS Unisanta
 
-@keyframes rgbColor {
-    50%   { color:grey;}
-}
-    
-    
-</style>
-</head>
+Projeto desenvolvido em **HTML e CSS** com o objetivo de apresentar informações sobre o curso de **Análise e Desenvolvimento de Sistemas da Unisanta**.
 
-<body>
-    <h1>hello world</h1>
-    <br>
-        <h2>Este é o inicio de um curso de HTML e CSS, com intituito de ser uma introdução
-            <p>básica às tecnologias de desenvolvimento e futuramente um desenvolvedor full stack.</p></h2>
-    
+A página contém uma breve descrição do curso, campo de atuação, links úteis e informações de contato da universidade.
 
-</body>
+---
 
-</html>
+## 📌 Sobre o Projeto
+
+Este projeto é uma página web simples criada para praticar conceitos básicos de desenvolvimento front-end, como:
+
+- Estruturação de páginas com HTML
+- Estilização com CSS
+- Inserção de imagens
+- Uso de links externos e internos
+- Formatação de textos
+- Aplicação de animações simples com CSS
+
+---
+
+## 🖥️ Tecnologias Utilizadas
+
+- HTML5
+- CSS3
+
+---
+
+## 📂 Estrutura do Projeto
+
+```bash
+📁 projeto-ads-unisanta
+│
+├── index.html
+├── base_text.css
+│
+└── 📁 imgs
+    └── ads-unisanta.png
