@@ -1,8 +1,6 @@
-# 🎓 ADS Unisanta Information Website
+# 🎓 Systems Analysis and Development (SAD) - Unisanta
 
-A web page developed using **HTML and CSS** to present information about the **Systems Analysis and Development (ADS) program at Unisanta**.
-
-The website provides a brief overview of the program, career opportunities, useful links, and university contact information.
+A web page developed using HTML and CSS to provide information about the Systems Analysis and Development program at Unisanta.
 
 ---
 
@@ -42,13 +40,13 @@ ads-course-website/
 
 ## 🚀 Features
 
-- Information about the Systems Analysis and Development program
-- Course overview and objectives
-- Career opportunities and professional fields
+- Information about the Systems Analysis and Development (SAD) program
+- Program overview and objectives
+- Career opportunities in software development and IT
 - University contact information
-- External links to relevant resources
-- Responsive and visually organized layout
-- Basic CSS animations and styling effects
+- Useful external resources
+- Responsive and organized layout
+- Basic CSS animations and visual effects
 
 ---
 
