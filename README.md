@@ -1,38 +1,85 @@
-# 🎓 Página Informativa - ADS Unisanta
+# 🎓 ADS Unisanta Information Website
 
-Projeto desenvolvido em **HTML e CSS** com o objetivo de apresentar informações sobre o curso de **Análise e Desenvolvimento de Sistemas da Unisanta**.
+A web page developed using **HTML and CSS** to present information about the **Systems Analysis and Development (ADS) program at Unisanta**.
 
-A página contém uma breve descrição do curso, campo de atuação, links úteis e informações de contato da universidade.
-
----
-
-## 📌 Sobre o Projeto
-
-Este projeto é uma página web simples criada para praticar conceitos básicos de desenvolvimento front-end, como:
-
-- Estruturação de páginas com HTML
-- Estilização com CSS
-- Inserção de imagens
-- Uso de links externos e internos
-- Formatação de textos
-- Aplicação de animações simples com CSS
+The website provides a brief overview of the program, career opportunities, useful links, and university contact information.
 
 ---
 
-## 🖥️ Tecnologias Utilizadas
+## 📌 About the Project
+
+This project is a simple web page created to practice fundamental front-end development concepts, including:
+
+- HTML page structure and semantic elements
+- CSS styling and layout design
+- Image integration
+- External and internal links
+- Text formatting and content organization
+- Simple CSS animations and visual effects
+
+---
+
+## 🖥️ Technologies Used
 
 - HTML5
 - CSS3
 
 ---
 
-## 📂 Estrutura do Projeto
+## 📂 Project Structure
 
 ```bash
-📁 projeto-ads-unisanta
+ads-course-website/
 │
 ├── index.html
 ├── base_text.css
 │
-└── 📁 imgs
+└── assets/
     └── ads-unisanta.png
+```
+
+---
+
+## 🚀 Features
+
+- Information about the Systems Analysis and Development program
+- Course overview and objectives
+- Career opportunities and professional fields
+- University contact information
+- External links to relevant resources
+- Responsive and visually organized layout
+- Basic CSS animations and styling effects
+
+---
+
+## 🎯 Project Goals
+
+This project was developed to:
+
+- Practice HTML and CSS fundamentals
+- Improve front-end development skills
+- Learn website structure and styling techniques
+- Create an informative and user-friendly web page
+
+---
+
+## 🧪 Future Improvements
+
+- Responsive design for mobile devices
+- Interactive navigation menu
+- Contact form integration
+- JavaScript functionality
+- Improved accessibility features
+- Modern UI/UX enhancements
+
+---
+
+## 👨‍💻 Author
+
+**Luis Felipe Dias de Souza**
+
+Software Development student focused on Full Stack Development, databases, and software engineering. Passionate about building scalable applications and continuously improving technical skills through hands-on projects.
+
+- GitHub: https://github.com/luf3ds
+- LinkedIn: https://www.linkedin.com/in/luis-felipe-dias-s-155b84378/
+- Email: lufeds@outlook.com
