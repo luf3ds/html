@@ -1,4 +1,4 @@
-# 🎓 SAD Unisanta Information Website
+# 🎓 ADS Unisanta Information Website
 
 A web page developed using **HTML and CSS** to present information about the **Systems Analysis and Development (ADS) program at Unisanta**.
 
